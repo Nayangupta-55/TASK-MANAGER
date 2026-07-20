@@ -6,6 +6,9 @@ A drag-and-drop Kanban board built with React and Vite, featuring inline task ed
 
 This project is a Trello-style task management board that organizes work into three columns - **To Do**, **In Progress**, and **Done**. It was built to demonstrate core React concepts: component architecture, unidirectional state management with `useState`, prop drilling, and controlled forms, with zero direct DOM manipulation.
 
+## Live Demo
+https://task-manager-yaan.vercel.app/
+
 ## Features
 
 | Feature | Description |
